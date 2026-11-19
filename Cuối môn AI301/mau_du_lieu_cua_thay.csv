@@ -1,0 +1,16 @@
+﻿Mã dòng,Tháng,Kênh bán,Khu vực,Sản phẩm,Số đơn,Doanh thu (VND),Chi phí giá vốn (VND),Lợi nhuận gộp (VND)
+DONG_001,Tháng 1,Online,Miền Bắc,Điện thoại & Tablet,25,25000000,18500000,6500000
+DONG_002,Tháng 1,Cửa hàng,Miền Nam,Điện tử Gia dụng,18,16200000,11800000,4400000
+DONG_003,Tháng 1,Đại lý,Miền Trung,Thời trang & Mỹ phẩm,32,14500000,9200000,5300000
+DONG_004,Tháng 2,Online,Miền Bắc,Điện thoại & Tablet,28,29400000,21500000,7900000
+DONG_005,Tháng 2,Cửa hàng,Miền Nam,Thời trang & Mỹ phẩm,40,18000000,11200000,6800000
+DONG_006,Tháng 2,Đại lý,Miền Bắc,Điện tử Gia dụng,15,13500000,9800000,3700000
+DONG_007,Tháng 3,Online,Miền Nam,Điện thoại & Tablet,35,38500000,27800000,10700000
+DONG_008,Tháng 3,Cửa hàng,Miền Trung,Thiết bị số,22,19800000,14200000,5600000
+DONG_009,Tháng 3,Đại lý,Miền Nam,Thời trang & Mỹ phẩm,30,15000000,9600000,5400000
+DONG_010,Tháng 4,Online,Miền Bắc,Điện tử Gia dụng,20,18000000,12600000,5400000
+DONG_011,Tháng 4,Cửa hàng,Miền Nam,Điện thoại & Tablet,26,28600000,20800000,7800000
+DONG_012,Tháng 4,Đại lý,Miền Trung,Thiết bị số,16,14400000,10500000,3900000
+DONG_013,Tháng 5,Online,Miền Nam,Thời trang & Mỹ phẩm,45,22500000,14400000,8100000
+DONG_014,Tháng 5,Cửa hàng,Miền Bắc,Điện thoại & Tablet,30,33000000,24000000,9000000
+DONG_015,Tháng 5,Đại lý,Miền Bắc,Điện tử Gia dụng,18,16200000,11700000,4500000
